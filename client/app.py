@@ -23,7 +23,7 @@ if button_pred :
         st.image("https://www.gardenia.net/wp-content/uploads/2023/05/iris-virginica-780x520.webp", caption = "Virginica", use_container_width=True)
 
     elif species_name == "Setosa" :
-        st.image("https://daylily-phlox.eu/wp-content/uploads/2021/10/Iris-setosa-dwarf-form-400x400.jpg", caption = "Setosa")
+        st.image("https://daylily-phlox.eu/wp-content/uploads/2021/10/Iris-setosa-dwarf-form-400x400.jpg", caption = "Setosa", use_container_width=True)
 
     elif species_name == "Versicolor" :
-        st.image("https://www.jardindion.com/wp-content/uploads/2023/12/2577302d-iris-versicolor-r14_01.png", caption = "Versicolor")
+        st.image("https://www.jardindion.com/wp-content/uploads/2023/12/2577302d-iris-versicolor-r14_01.png", caption = "Versicolor", use_container_width=True)
