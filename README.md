@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-Ce projet consiste à prédire l'espèce d'Iris en fonction des caractéristiques de fleurs (longueur et largeur des sépales et pétales) en utilisant le jeu de données Iris. Le modèle un classifier de type Random Forest. Le projet met en relation plusieurs composantes : 
+Ce projet consiste à prédire l'espèce d'Iris en fonction des caractéristiques de fleurs (longueur et largeur des sépales et pétales en centimètres) en utilisant le jeu de données Iris. Le modèle un classifier de type Random Forest. Le projet met en relation plusieurs composantes : 
 
 - **Interface Streamlit** : permet d'interagir avec le modèle et de faire des prédictions en ligne.
 - **Serveur FastAPI** : permet d'obtenir la classe prédite
