@@ -34,15 +34,3 @@ def predict(item: Item):
     predicted_species = int(model.predict(features)[0]) 
     species_name = species_dict.get(predicted_species)
     return {"Fleur prédite": species_name}
-    
-    # predicted_class = int(model.predict(features)[0])
-    # return {"Fleur prédite ": (predicted_class)}
-    # data = np.array([item.sepal_length, item.sepal_width, item.petal_length, item.petal_width]).reshape(1, -1)
-    # prediction = int(model.predict(data))
-    # if prediction == 0:
-    #     classe = "Setosa"
-    # elif prediction == 1:
-    #     classe = "Versicolor"
-    # elif prediction == 2:
-    #     classe = "Virginica"
-    # return {"Classe": classe}
