@@ -71,9 +71,13 @@ Si ce n'est pas déjà le cas, assurez-vous d'installer [Docker](https://www.doc
 
 ## Démonstration
 L'interface une fois démarée et la prédiction lancée ressemble à ceci : 
-
 <img src="../MLops/Image/Animation.gif">
 
-## Auteur
-Ce projet a été réalisé par Lucile PERBET dans le cadre du Master 2 SISE à l'université Lumière Lyon 2.
- 
+
+
+
+
+
+
+
+
