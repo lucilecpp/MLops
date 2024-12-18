@@ -74,7 +74,7 @@ L'interface une fois démarée et la prédiction lancée ressemble à ceci :
 
 <img src="../MLops/Image/Animation.gif">
 
-
+![]https://github.com/lucilecpp/MLops/blob/main/Image/Animation.gif
 
 
 
