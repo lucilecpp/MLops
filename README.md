@@ -59,27 +59,11 @@ Si ce n'est pas déjà le cas, assurez-vous d'installer [Docker](https://www.doc
     
     Cela vous permettra de réaliser vos propres prédictions en fonction des valeurs que vous mettrez pour chaque features. Le lien vers l'application sera également affiché dans votre console.  
 
-    <br>
-
-3. **Arrêt de l'application**
-    
-    Une fois toutes vos prédictions terminées lancez la commande suivante pour fermer l'application :
-    
-    ```bash
-    docker compose down
-    ```
 
 ## Démonstration
 L'interface une fois démarée et la prédiction lancée ressemble à ceci : 
 
-<img src="../MLops/Image/Animation.gif">
-
-![]https://github.com/lucilecpp/MLops/blob/main/Image/Animation.gif
-
-
-
-
-
+<img src="https://github.com/lucilecpp/MLops/blob/main/Image/Animation.gif"/>
 
 ## Auteur
 Ce projet a été réalisé par Lucile PERBET dans le cadre du Master 2 SISE à l'université Lumière Lyon 2.
