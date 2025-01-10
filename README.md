@@ -47,7 +47,7 @@ Si ce n'est pas déjà le cas, assurez-vous d'installer [Docker](https://www.doc
    ```bash
    git clone https://github.com/lucilecpp/MLops.git
     ```
-
+ Avant de lancer l'application assurez-vous d'ouvrir Docker Desktop.
 2. **Lancer l'application**
 
     ```bash
